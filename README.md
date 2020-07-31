@@ -1,4 +1,4 @@
-# Demo Kubernetes
+# Demo Kubernetes Flask
 
 A simple "Hello, World!" Python Flask tutorial you can run on Kubernetes. 
 
